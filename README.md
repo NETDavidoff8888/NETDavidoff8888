@@ -1,16 +1,21 @@
-## Hi there 👋
+# Привет, я Davidoff! 👋
 
-<!--
-**NETDavidoff8888/NETDavidoff8888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Network & Automation Engineer in the making
+Я занимаюсь разработкой ПО и активно погружаюсь в мир сетевых технологий и автоматизации (**NetDevOps**). 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Чем я сейчас занимаюсь:
+- 🌐 Глубоко изучаю **Cisco OSPF** и траблшутинг в PNETLab.
+- 🛠 Строю виртуальные лаборатории и тестирую топологии.
+- 🐍 Автоматизирую рутину с помощью **Python (Netmiko, Nornir)** и **Ansible**.
+
+### 🛠 Мой стек технологий:
+- **Networking:** Cisco IOS, OSPF, BGP, VLANs.
+- **Tools:** PNETLab, Wireshark, VS Code.
+- **Automation:** Python, Ansible, Git.
+
+---
+
+📍 **Location:** Dushanbe, Tajikistan 🇹🇯  
+💬 **Ask me about:** Data Matrix, product marking, and Telegram bots!
