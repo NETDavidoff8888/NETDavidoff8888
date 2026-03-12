@@ -19,3 +19,4 @@
 
 📍 **Location:** Dushanbe, Tajikistan 🇹🇯  
 💬 **Ask me about:** Data Matrix, product marking, and Telegram bots!
+> Git настроен, связь с GitHub установлена! 🚀
